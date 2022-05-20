@@ -1,14 +1,8 @@
 {
   "name": "URL Uploader",
-  "description": "Telegram's Open Source URL Uploader Bot. Create your own Bot",
-  "keywords": [
-    "telegram",
-    "url",
-    "uploader"
-  ],
-  "success_url": "https://t.me/<bot name>",
-  "website": "https://github.com/Prabhat17104",
-  "repository": "https://github.com/Prabhat17104/TG-UrlUploader-Bot",
+  "description": "Telegram's Open Source URL Uploader Bot",
+  
+ 
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
