@@ -6,9 +6,9 @@
     "url",
     "uploader"
   ],
-  "success_url": "https://t.me/Prabhat22_bot",
-  "website": "https://github.com/Elonm130",
-  "repository": "https://github.com/Elonm130/Prabhat17",
+  "success_url": "https://t.me/<bot name>",
+  "website": "https://github.com/Prabhat17104",
+  "repository": "https://github.com/Prabhat17104/TG-UrlUploader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
